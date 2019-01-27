@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="UI Test Suite" parallel="tests" thread-count="0">
+    <!-->test name="Smoke test group 1" preserve-order="true">  
+    	<parameter name="browserRemote" value="chromeRemote"/>	
+        <classes>
+        	<class name="com.UITest.tests.LoginTest"/>	     		
+        </classes>
+    </test>
+    <test name="Smoke test group 2" preserve-order="true">  
+    	<parameter name="browserRemote" value="firefoxRemote"/>	
+        <classes>
+        	<class name="com.UITest.tests.LoginTest"/>	     		
+        </classes>
+    </test-->
+  </suite>

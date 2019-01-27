@@ -1,0 +1,16 @@
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/pages/UpdateDaltonProductsConfirmation.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/pages/PageBase.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/pages/LoginPage.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/pages/HomePage.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/locators/HomePageLocators.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTestHelper/helper/TestResultsTR.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/util/JsonReader.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/util/WebDriverHelper.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/locators/LoginPageLocators.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTestHelper/helper/Waits.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/gurock/testrail/APIException.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/pages/DpmConfigDaltonProdTab.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/pages/DpmConfigSettingsPage.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/locators/ConfigurationPageLocators.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/gurock/testrail/APIClient.java
+/Users/sylee/dev/selenium/qa-automation/src/main/java/com/AutomationTest/pages/ConfigurationPage.java

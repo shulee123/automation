@@ -1,0 +1,35 @@
+{
+	"loginSample": 
+	[
+		{
+			"userName"			:		"draco",
+			"password"			:		"Fu+ur3isn0w!"
+		}
+	],
+	"configDPMSuccessful1149":
+	[
+		{
+			"userName"							:		"draco",
+			"password"							:		"Fu+ur3isn0w!",
+			"dpmTitleName"						:		"Dalton product mapper configuration and settings",
+			"dpmUrl"							:		"http://dalton-demo.ids.turner.com/barker/api/1/products",
+			"dpmLocatorService"					:		"draco_dpm_demo.entity_locator_service",
+			"dpmFlightVerificationService"		:		"draco_dpm_test.content_flight_verification_service",
+			"dpmTitle"							:		"Dalton products",
+			"confirmTitle"						:		"Ingest Dalton products from remote source?",
+			"prodName"							:		"non-premium-episode",
+			"prodName2"							:		"non-premium-season",
+			"prodName3"							:		"premium-episode",
+			"prodName4"							:		"premium-season"
+		}
+	],
+	"freewheelBviPublish":
+	[
+		{
+			"userName"							:		"draco",
+			"password"							:		"Fu+ur3isn0w!",
+			"url"								:		"http://dev.draco.turner.com/bvi-publish/0/short/16",
+			"response"							:		"Publishing short form BVI content"
+		}
+	]
+}

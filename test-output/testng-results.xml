@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28162" started-at="2019-01-26T21:38:17Z" finished-at="2019-01-26T21:38:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28162" started-at="2019-01-26T21:38:17Z" finished-at="2019-01-26T21:38:45Z">
+      <class name="com.UITest.tests.FreewheelBviPublish">
+        <test-method status="PASS" signature="beforSuite()[pri:0, instance:com.UITest.tests.FreewheelBviPublish@192b07fd]" name="beforSuite" is-config="true" duration-ms="8" started-at="2019-01-26T21:38:17Z" finished-at="2019-01-26T21:38:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforSuite -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.UITest.tests.FreewheelBviPublish@192b07fd]" name="beforeMethod" is-config="true" duration-ms="2625" started-at="2019-01-26T21:38:17Z" finished-at="2019-01-26T21:38:20Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="freewheelBviPublish(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.UITest.tests.FreewheelBviPublish@192b07fd]" name="freewheelBviPublish" duration-ms="25413" started-at="2019-01-26T21:38:20Z" description="Freewheel BVI Publish" data-provider="dataProvider" finished-at="2019-01-26T21:38:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[draco]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fu+ur3isn0w!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://dev.draco.turner.com/bvi-publish/0/short/16]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Publishing short form BVI content]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freewheelBviPublish -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.UITest.tests.FreewheelBviPublish@192b07fd]" name="afterMethod" is-config="true" duration-ms="86" started-at="2019-01-26T21:38:45Z" finished-at="2019-01-26T21:38:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=freewheelBviPublish status=SUCCESS method=FreewheelBviPublish.freewheelBviPublish(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.UITest.tests.FreewheelBviPublish@192b07fd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.UITest.tests.FreewheelBviPublish -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

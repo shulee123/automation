@@ -1,0 +1,4 @@
+src/main/java/com/AutomationTest
+src/main/java/com/AutomationTestHelper/helper
+src/test/java/com/UITest/tests
+pom.xml
